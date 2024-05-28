@@ -70,9 +70,6 @@
 			"Domination": 10,
 			"Scientific": 20
 		},
-        "uniques": [
-            "Only available <after adopting [Tradition]>"
-        ],
         [
             {
                 "name": "Tradition",
