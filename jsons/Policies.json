@@ -15,7 +15,7 @@
 		],
 		"policies": [
 			{
-				"name": "FArtistocracy",
+				"name": "Aristocracy",
 				"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]", 
 							"[+1 Happiness] per [10] population [in all cities]"],
 				"row": 1,
