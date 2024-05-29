@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Tradition",
-		"era": "Ancient era",
+		"era": "Tier 0 Era",
 		"priorities": {
 			"Neutral": 0,
 			"Cultural": 20,
@@ -62,7 +62,7 @@
 	},
 	{
 		"name": "Liberty",
-		"era": "Ancient era",
+		"era": "Tier 0 Era",
 		"priorities": {
 			"Neutral": 0,
 			"Cultural": 10,
