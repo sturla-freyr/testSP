@@ -1,7 +1,7 @@
 [
     {
 		"columnNumber": 0,
-		"era": "Tier 0 era",
+		"era": "Tier 0 Era",
 		"techCost": 25, 
 		"buildingCost": 60,
 		"techs": [
