@@ -6,7 +6,7 @@
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
-		"name": "Spearman",
+		"name": "Rifleman",
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 5,
